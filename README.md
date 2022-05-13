@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tech_makers1" target="blank"><img src="https://img.shields.io/twitter/follow/tech_makers1?logo=twitter&style=for-the-badge" alt="tech_makers1" /></a> </p>
 
-<p align="left"> <img src="https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png" align="right" alt="Techmakers" width="500" /> </p>
+<p align="left"> <img src="https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png" align="right" alt="Techmakers" width="400" /> </p>
 
 - 🔭 I’m currently working at [Team for Techmakers](https://techmakers.tech/)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/techmakers96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="techmakers96" height="30" width="40" /></a>
+<a href="https://codepen.io/techmakers96" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="techmakers96" height="30" width="40" /></a>
 <a href="https://twitter.com/tech_makers1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tech_makers1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tech-makers-34a471173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tech-makers-34a471173" height="30" width="40" /></a>
 <a href="https://fb.com/techmakers.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techmakers.co" height="30" width="40" /></a>

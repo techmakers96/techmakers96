@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tech_makers1" target="blank"><img src="https://img.shields.io/twitter/follow/tech_makers1?logo=twitter&style=for-the-badge" alt="tech_makers1" /></a> </p>
 
-<p align="left"> <img src="https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png" align="right" alt="husseinaoda2" /> </p>
+<p align="left"> <img src="https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png" align="right" alt="Techmakers" width="500" /> </p>
 
 - 🔭 I’m currently working at [Team for Techmakers](https://techmakers.tech/)
 
